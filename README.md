@@ -1,6 +1,6 @@
 # SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG
 
-This repository contains code accompanying the ICLR 2025 submission with the title *SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG*.
+This repository contains code accompanying the ICLR 2025 paper *SPDIM: Source-Free Unsupervised Conditional and Label Shift Adaptation in EEG*.
 
 ## File list
 
@@ -14,11 +14,6 @@ The following files are provided in this repository:
 
 `pretrained_model` A folder containing the pretrained model for the source domains, enabling immediate source-free unsupervised domain adaptation.
 
-[`manuscript_revised.pdf`](https://github.com/fightlesliefigt/SPDIM-ICLR2025-/blob/main/manuscript_revised.pdf) A copy of the revised manuscript.
-
-[`manuscript_submitted.pdf`](https://github.com/fightlesliefigt/SPDIM-ICLR2025-/blob/main/manuscript_submitted.pdf) A copy of the oringally submitted manuscript.
-
-[`manuscript_diff_submitted_revised.pdf`](https://github.com/fightlesliefigt/SPDIM-ICLR2025-/blob/main/manuscript_diff_submitted_revised.pdf) A pdf highlighting the changes between the original submitted and the revised manuscript. (generated with `latexdiff`)
 
 ## Requirements
 
