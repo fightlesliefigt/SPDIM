@@ -39,4 +39,23 @@ Simulations of 2-2 SPD binary classification problems using our proposed generat
 
 More detail instructions  are described in the `simulations.ipynb` notebook.
 
+## Cite
+```
+@inproceedings{li2025spdim,
+  title={SPDIM: Source-free unsupervised conditional and label shift adaptation in EEG},
+  author={Li, Shanglin and Kawanabe, Motoaki and Kobler, Reinmar},
+  booktitle={International Conference on Learning Representations},
+  volume={2025},
+  pages={101907--101931},
+  year={2025}
+}
+
+@article{li2026spdalign,
+  title={SPDAlign: Interpretable Riemannian Alignment for EEG Forward Modeling Shifts},
+  author={Li, Shanglin and Chu, Shiwen and Ko{\c{c}}, Okan and Liu, Chenyu and Zhao, Qibin and Kawanabe, Motoaki and Kawato, Mitsuo and Ding, Yi},
+  journal={arXiv preprint arXiv:2610.06315},
+  year={2026}
+}
+```
+
 
